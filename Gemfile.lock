@@ -98,18 +98,13 @@ GEM
     connection_pool (2.5.3)
     crass (1.0.6)
     date (3.4.1)
-    debug (1.10.0)
+    debug (1.11.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
     diff-lcs (1.6.2)
     drb (2.2.3)
     erb (5.0.1)
     erubi (1.13.1)
-    factory_bot (6.5.1)
-      activesupport (>= 6.1.0)
-    factory_bot_rails (6.4.4)
-      factory_bot (~> 6.5)
-      railties (>= 5.0.0)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.7)
@@ -324,7 +319,6 @@ DEPENDENCIES
   byebug
   capybara
   debug
-  factory_bot_rails
   importmap-rails
   jbuilder
   propshaft
